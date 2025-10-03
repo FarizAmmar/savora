@@ -1,8 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Savora 💰✨
 
-## Getting Started
+Savora is a modern money manager app designed to help you track income, expenses, and savings effortlessly.
+Built with Next.js 14, TypeScript, and TailwindCSS for high performance, sleek UI, and smooth developer experience.
 
-First, run the development server:
+🚀 Getting Started
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -18,19 +21,32 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🔑 Key Features
+📊 Finance Dashboard – see an overview of your income, expenses, and balance.
+🏷️ Smart Categories – tag and organize your transactions easily.
+🎯 Savings Goals – set financial goals and track your progress.
+☁️ Cloud Sync (optional) – keep your data safe and accessible across devices.
+🎨 Modern UI – powered by TailwindCSS and Geist Font
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+📚 Tech Stack
+Next.js
+ – React framework for production.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+TypeScript
+ – type-safe codebase.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+TailwindCSS
+ – utility-first CSS framework.
 
-## Deploy on Vercel
+Database (TBD) – can be Prisma
+, Supabase
+, or similar.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📦 Deployment
+The easiest way to deploy Savora is via Vercel
+.
+Connect your repository and deploy in just a few clicks 🚀.
+More info: Next.js Deployment Docs
+.
